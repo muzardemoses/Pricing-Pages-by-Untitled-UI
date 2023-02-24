@@ -30,7 +30,7 @@
             everyone on the same page and in the loop.
           </p>
         </div>
-        <button class="flex gap-3">
+        <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
             src="../assets/arrow-right.svg"
@@ -39,7 +39,7 @@
             width="18"
             class="font-semibold my-auto"
           />
-        </button>
+        </a>
       </div>
       <div class="flex gap-5 flex-col w-96 lg:w-full ">
         <div
@@ -61,7 +61,7 @@
             confusion.
           </p>
         </div>
-        <button class="flex gap-3">
+        <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
             src="../assets/arrow-right.svg"
@@ -70,7 +70,7 @@
             width="18"
             class="font-semibold my-auto"
           />
-        </button>
+        </a>
       </div>
       <div class="flex gap-5 flex-col w-96 lg:w-full ">
         <div
@@ -87,7 +87,7 @@
             everything your customers need to be happy.
           </p>
         </div>
-        <button class="flex gap-3">
+        <a href="" class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
             src="../assets/arrow-right.svg"
@@ -96,7 +96,7 @@
             width="18"
             class="font-semibold my-auto"
           />
-        </button>
+        </a>
       </div>
       <div class="flex gap-5 flex-col w-96 lg:w-full ">
         <div
@@ -113,7 +113,7 @@
             efficient and familiar. Plus, our extensive developer tools.
           </p>
         </div>
-        <button class="flex gap-3">
+        <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
             src="../assets/arrow-right.svg"
@@ -122,7 +122,7 @@
             width="18"
             class="font-semibold my-auto"
           />
-        </button>
+        </a>
       </div>
       <div class="flex gap-5 flex-col w-96 lg:w-full ">
         <div
@@ -143,7 +143,7 @@
             filter, export, and drilldown on the data in a couple clicks.
           </p>
         </div>
-        <button class="flex gap-3">
+        <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
             src="../assets/arrow-right.svg"
@@ -152,7 +152,7 @@
             width="18"
             class="font-semibold my-auto"
           />
-        </button>
+        </a>
       </div>
       <div class="flex gap-5 flex-col w-96 lg:w-full ">
         <div
@@ -174,7 +174,7 @@
             help.
           </p>
         </div>
-        <button class="flex gap-3">
+        <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
             src="../assets/arrow-right.svg"
@@ -183,7 +183,7 @@
             width="18"
             class="font-semibold my-auto"
           />
-        </button>
+        </a>
       </div>
     </div>
   </div>

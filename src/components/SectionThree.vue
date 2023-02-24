@@ -5,7 +5,7 @@
       <p class="font-normal text-xl text-gray-600 w768 md:text-lg">
         Everything you need to know about the product and billing. Can’t find
         the answer you’re looking for? Please
-        <span class="border-b border-gray-600"> chat to our friendly team</span
+        <a href="" class="border-b border-gray-600"> chat to our friendly team</a
         >.
       </p>
     </div>
@@ -76,11 +76,11 @@
             Can’t find the answer you’re looking for? Please chat to our friendly team.
         </p>
     </div>
-    <button
-    class=" rounded-lg w134 h-12 font-semibold text-base text-white "
+    <PurpleButton
+    class="w134 h-12 "
     >
         Get in touch
-    </button>
+    </PurpleButton>
     </div>
   </div>
 </template>
@@ -111,3 +111,15 @@
   
 }
 </style>
+
+
+<script>
+import PurpleButton from './PurpleButton.vue';
+
+export default {
+  name: 'SectionThree',
+  components: {
+    PurpleButton,
+  },
+};
+</script>

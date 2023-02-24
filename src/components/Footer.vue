@@ -4,75 +4,75 @@
      <div class="w-44 flex flex-col gap-4 ">
         <h6 class="font-semibold text-sm text-gray-500 uppercase">Product</h6>
         <div class="flex flex-col gap-3">
-          <p class="font-semibold text-base text-gray-600">Overview</p>
-          <p class="font-semibold text-base text-gray-600">Features</p>
-          <div class="flex flex-row gap-2 items-center">
+          <a href="" class="font-semibold text-base text-gray-600">Overview</a>
+          <a href="" class="font-semibold text-base text-gray-600">Features</a>
+          <a href="" class="flex flex-row gap-2 items-center">
             <p class="font-semibold text-base text-gray-600">Solutions</p>
             <p
               class="text-green-600 font-medium text-xs bg-green-50 w-10 h-5 rounded-2xl flex justify-center items-center px-2 py-1"
             >
               New
             </p>
-          </div>
+          </a>
 
-          <p class="font-semibold text-base text-gray-600">Tutorials</p>
-          <p class="font-semibold text-base text-gray-600">Pricing</p>
-          <p class="font-semibold text-base text-gray-600">Releases</p>
+          <a href="" class="font-semibold text-base text-gray-600">Pricing</a>
+          <a href="" class="font-semibold text-base text-gray-600">Tutorials</a>
+          <a href="" class="font-semibold text-base text-gray-600">Releases</a>
         </div>
       </div>
       <div class="w-44 flex flex-col gap-4">
         <h6 class="font-semibold text-sm text-gray-500 uppercase">Company</h6>
         <div class="flex flex-col gap-3">
-          <p class="font-semibold text-base text-gray-600">About us</p>
-          <p class="font-semibold text-base text-gray-600">Careers</p>
-          <p class="font-semibold text-base text-gray-600">Press</p>
-          <p class="font-semibold text-base text-gray-600">News</p>
-          <p class="font-semibold text-base text-gray-600">Media kit</p>
-          <p class="font-semibold text-base text-gray-600">Contact</p>
+          <a href="" class="font-semibold text-base text-gray-600">About us</a>
+          <a href="" class="font-semibold text-base text-gray-600">Careers</a>
+          <a href="" class="font-semibold text-base text-gray-600">Press</a>
+          <a href="" class="font-semibold text-base text-gray-600">News</a>
+          <a href="" class="font-semibold text-base text-gray-600">Media kit</a>
+          <a href="" class="font-semibold text-base text-gray-600">Contact</a>
         </div>
       </div>
       <div class="w-44 flex flex-col gap-4">
         <h6 class="font-semibold text-sm text-gray-500 uppercase">Resources</h6>
         <div class="flex flex-col gap-3">
-          <p class="font-semibold text-base text-gray-600">Blog</p>
-          <p class="font-semibold text-base text-gray-600">Newsletter</p>
-          <p class="font-semibold text-base text-gray-600">Events</p>
-          <p class="font-semibold text-base text-gray-600">Help centre</p>
-          <p class="font-semibold text-base text-gray-600">Tutorials</p>
-          <p class="font-semibold text-base text-gray-600">Support</p>
+          <a href="" class="font-semibold text-base text-gray-600">Blog</a>
+          <a href="" class="font-semibold text-base text-gray-600">Newsletter</a>
+          <a href="" class="font-semibold text-base text-gray-600">Events</a>
+          <a href="" class="font-semibold text-base text-gray-600">Help centre</a>
+          <a href="" class="font-semibold text-base text-gray-600">Tutorials</a>
+          <a href="" class="font-semibold text-base text-gray-600">Support</a>
         </div>
       </div>
       <div class="w-44 flex flex-col gap-4">
         <h6 class="font-semibold text-sm text-gray-500 uppercase">Use cases</h6>
         <div class="flex flex-col gap-3">
-          <p class="font-semibold text-base text-gray-600">Startups</p>
-          <p class="font-semibold text-base text-gray-600">Enterprise</p>
-          <p class="font-semibold text-base text-gray-600">Government</p>
-          <p class="font-semibold text-base text-gray-600">SaaS centre</p>
-          <p class="font-semibold text-base text-gray-600">Marketplaces</p>
-          <p class="font-semibold text-base text-gray-600">Ecommerce</p>
+          <a href="" class="font-semibold text-base text-gray-600">Startups</a>
+          <a href="" class="font-semibold text-base text-gray-600">Enterprise</a>
+          <a href="" class="font-semibold text-base text-gray-600">Government</a>
+          <a href="" class="font-semibold text-base text-gray-600">SaaS centre</a>
+          <a href="" class="font-semibold text-base text-gray-600">Marketplaces</a>
+          <a href="" class="font-semibold text-base text-gray-600">Ecommerce</a>
         </div>
       </div>
       <div class="w-44 flex flex-col gap-4">
         <h6 class="font-semibold text-sm text-gray-500 uppercase">Social</h6>
         <div class="flex flex-col gap-3">
-          <p class="font-semibold text-base text-gray-600">Twitter</p>
-          <p class="font-semibold text-base text-gray-600">LinkedIn</p>
-          <p class="font-semibold text-base text-gray-600">Facebook</p>
-          <p class="font-semibold text-base text-gray-600">GitHub</p>
-          <p class="font-semibold text-base text-gray-600">AngelList</p>
-          <p class="font-semibold text-base text-gray-600">Dribbble</p>
+          <a href="" class="font-semibold text-base text-gray-600">Twitter</a>
+          <a href="" class="font-semibold text-base text-gray-600">LinkedIn</a>
+          <a href="" class="font-semibold text-base text-gray-600">Facebook</a>
+          <a href="" class="font-semibold text-base text-gray-600">GitHub</a>
+          <a href="" class="font-semibold text-base text-gray-600">AngelList</a>
+          <a href="" class="font-semibold text-base text-gray-600">Dribbble</a>
         </div>
       </div>
       <div class="w-44 flex flex-col gap-4">
         <h6 class="font-semibold text-sm text-gray-500 uppercase">Legal</h6>
         <div class="flex flex-col gap-3">
-          <p class="font-semibold text-base text-gray-600">Terms</p>
-          <p class="font-semibold text-base text-gray-600">Privacy</p>
-          <p class="font-semibold text-base text-gray-600">Cookies</p>
-          <p class="font-semibold text-base text-gray-600">Licenses</p>
-          <p class="font-semibold text-base text-gray-600">Settings</p>
-          <p class="font-semibold text-base text-gray-600">Contact</p>
+          <a href="" class="font-semibold text-base text-gray-600">Terms</a>
+          <a href="" class="font-semibold text-base text-gray-600">Privacy</a>
+          <a href="" class="font-semibold text-base text-gray-600">Cookies</a>
+          <a href="" class="font-semibold text-base text-gray-600">Licenses</a>
+          <a href="" class="font-semibold text-base text-gray-600">Settings</a>
+          <a href="" class="font-semibold text-base text-gray-600">Contact</a>
         </div>
       </div>
     </div>
@@ -82,7 +82,7 @@
     <img src="../assets/untiltlesd.svg" alt="logo" />
     <p
         class="text-gray-500 font-normal text-base"
-    >© 2077 Untitled UI. Coded by MuardeMoses.</p>
+    >© 2077 Untitled UI. All rights reserved.</p>
     </div>
   </div>
 </template>

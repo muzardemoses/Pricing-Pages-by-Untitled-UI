@@ -82,16 +82,16 @@
           </div>
         </div>
         <div class="mt-10 flex flex-col gap-3">
-          <button
-            class="text-white bg-violet-600 w-80 h-12 rounded-lg border border-solid border-violet-600 shadow-sm font-semibold text-base"
+          <PurpleButton
+            class=" w-80 h-12 "
           >
             Get started
-          </button>
-          <button
-            class="w-80 h-12 rounded-lg border border-solid shadow-sm border-gray-300 font-semibold text-base"
+          </PurpleButton>
+          <WhiteButton
+            class="w-80 h-12 "
           >
             Chat to sales
-          </button>
+          </WhiteButton>
         </div>
       </div>
       <div
@@ -163,16 +163,16 @@
           </div>
         </div>
         <div class="mt-10 flex flex-col gap-3">
-          <button
-            class="text-white bg-violet-600 w-80 h-12 rounded-lg border border-solid border-violet-600 shadow-sm font-semibold text-base"
+          <PurpleButton
+            class=" w-80 h-12 "
           >
             Get started
-          </button>
-          <button
-            class="w-80 h-12 rounded-lg border border-solid shadow-sm border-gray-300 font-semibold text-base"
+          </PurpleButton>
+          <WhiteButton
+            class="w-80 h-12 "
           >
             Chat to sales
-          </button>
+          </WhiteButton>
         </div>
       </div>
       <div
@@ -246,16 +246,16 @@
           </div>
         </div>
         <div class="mt-10 flex flex-col gap-3">
-          <button
-            class="text-white bg-violet-600 w-80 h-12 rounded-lg border border-solid border-violet-600 shadow-sm font-semibold text-base"
+          <PurpleButton
+            class=" w-80 h-12 "
           >
             Get started
-          </button>
-          <button
-            class="w-80 h-12 rounded-lg border border-solid shadow-sm border-gray-300 font-semibold text-base"
+          </PurpleButton>
+          <WhiteButton
+            class="w-80 h-12 "
           >
             Chat to sales
-          </button>
+          </WhiteButton>
         </div>
       </div>
     </div>
@@ -267,3 +267,18 @@
   padding: 2px;
 }
 </style>
+
+<script>
+import PurpleButton from "./PurpleButton.vue";
+import WhiteButton from "./WhiteButton.vue";
+
+export default {
+  name: "Pricing",
+  components: {
+    PurpleButton,
+    WhiteButton,
+  },
+};
+
+
+</script>

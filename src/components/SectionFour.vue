@@ -5,38 +5,33 @@
         <h2 class="font-semibold text-4xl text-gray-900 md:text-3xl">
           Start your free trial
         </h2>
-        <div
-        class="lg:flex lg:flex-col lg:gap-3 "
-        >
-          <button
-            class="font-semibold text-base text-gray-700 bg-white rounded-lg border border-solid border-gray-300 px-5 py-3 shadow-sm mr-3 lg:mr-0"
-          >
+        <div class="lg:flex lg:flex-col lg:gap-3">
+          <WhiteButton class="px-5 py-3 shadow-sm mr-3 lg:mr-0">
             Learn more
-          </button>
-          <button
-            class="font-semibold text-base text-white bg-violet-600 rounded-lg px-5 py-3 shadow-sm"
+          </WhiteButton>
+          <PurpleButton
+            class=" px-5 py-3 shadow-sm"
           >
             Get started
-          </button>
+          </PurpleButton>
         </div>
       </div>
       <p class="text-xl font-normal text-gray-600 md:text-lg">
         Join over 4,000+ startups already growing with Untitled.
       </p>
     </div>
-    <div class="grid grid-rows-2 grid-flow-col gap-y-8  w768 md:grid-rows-4">
-      <h4 class="font-bold text22 text-gray-900">Epicurious</h4>
-      <h4 class="font-bold text22 text-gray-900">Alt + Shift</h4>
-      <h4 class="font-bold text22 text-gray-900">cloudwatch</h4>
-      <h4 class="font-bold text22 text-gray-900">Luminous</h4>
-      <h4 class="font-bold text22 text-gray-900">Acme Corp</h4>
-      <h4 class="font-bold text22 text-gray-900">FocalPoint</h4>
-      <h4 class="font-bold text22 text-gray-900">polyMath</h4>
-      <h4 class="font-bold text22 text-gray-900">Galileo</h4>
+    <div class="grid grid-rows-2 grid-flow-col gap-y-8 w768 md:grid-rows-4">
+      <a href="" class="font-bold text22 text-gray-900">Epicurious</a>
+      <a href="" class="font-bold text22 text-gray-900">Alt + Shift</a>
+      <a href="" class="font-bold text22 text-gray-900">cloudwatch</a>
+      <a href="" class="font-bold text22 text-gray-900">Luminous</a>
+      <a href="" class="font-bold text22 text-gray-900">Acme Corp</a>
+      <a href="" class="font-bold text22 text-gray-900">FocalPoint</a>
+      <a href="" class="font-bold text22 text-gray-900">polyMath</a>
+      <a href="" class="font-bold text22 text-gray-900">Galileo</a>
     </div>
   </div>
 </template>
-
 
 <style scoped>
 .w768 {
@@ -52,3 +47,16 @@
   }
 }
 </style>
+
+<script>
+import PurpleButton from "./PurpleButton.vue";
+import WhiteButton from "./WhiteButton.vue";
+
+export default {
+  name: "SectionFour",
+  components: {
+    PurpleButton,
+    WhiteButton,
+  },
+};
+</script>
