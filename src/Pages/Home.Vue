@@ -25,6 +25,7 @@ import SectionSix from "@/components/HomeComps/SectionSix.vue";
 import SectionSeven from "@/components/HomeComps/SectionSeven.vue";
 
 export default {
+  name: "Home",
   components: {
     DefaultLayout,
     SectionOne,

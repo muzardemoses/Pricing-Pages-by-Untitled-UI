@@ -98,7 +98,7 @@ import { ref } from "vue";
 import AuthLayout from "../Layouts/AuthLayout.vue";
 
 export default {
-  name: "SectionOne",
+  name: "Login",
   components: {
     Input,
     PurpleButtonVue,
