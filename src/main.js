@@ -1,15 +1,18 @@
 import { createApp } from "vue";
 import App from "./App.vue";
 import { createRouter, createWebHistory } from "vue-router";
-import Home from "./Pages/Home.vue";
-import Pricing from "./Pages/Pricing.vue";
-import Login from "./Pages/Login.vue";
-import SignUp from "./Pages/SignUp.vue";
-import DefaultLayout from "./Layouts/DefaultLayout.vue";
-import AuthLayout from "./Layouts/AuthLayout.vue";
+import Home from "@/Pages/Home.vue";
+import Pricing from "@/Pages/Pricing.vue";
+import Login from "@/Pages/Login.vue";
+import SignUp from "@/Pages/SignUp.vue";
+import DefaultLayout from "@/Layouts/DefaultLayout.vue";
+import AuthLayout from "@/Layouts/AuthLayout.vue";
 
 import "./assets/main.css";
 import "./assets/tailwind.css";
+
+
+
 
 const router = createRouter({
   history: createWebHistory(),

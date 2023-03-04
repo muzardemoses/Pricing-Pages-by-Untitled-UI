@@ -22,7 +22,7 @@ import SectionThree from "@/components/HomeComps/SectionThree.vue";
 import SectionFour from "@/components/HomeComps/SectionFour.vue";
 import SectionFive from "@/components/HomeComps/SectionFive.vue";
 import SectionSix from "@/components/HomeComps/SectionSix.vue";
-import SectionSeven from "../components/HomeComps/SectionSeven.vue";
+import SectionSeven from "@/components/HomeComps/SectionSeven.vue";
 
 export default {
   components: {
