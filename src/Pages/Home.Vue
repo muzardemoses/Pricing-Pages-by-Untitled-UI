@@ -8,7 +8,7 @@
         <SectionFour />
         <SectionFive />
         <SectionSix />
-        <SectionSeven/>
+        <SectionSeven />
       </div>
     </template>
   </DefaultLayout>
@@ -33,8 +33,8 @@ export default {
     SectionFour,
     SectionFive,
     SectionSix,
-    SectionSeven
-},
+    SectionSeven,
+  },
 };
 </script>
 
