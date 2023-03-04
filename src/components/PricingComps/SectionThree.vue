@@ -114,7 +114,7 @@
 
 
 <script>
-import PurpleButton from './PurpleButton.vue';
+import PurpleButton from '../PurpleButton.vue';
 
 export default {
   name: 'SectionThree',

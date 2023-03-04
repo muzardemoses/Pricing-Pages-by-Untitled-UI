@@ -11,7 +11,7 @@
           class="flex flex-row justify-between items-center gap-9 font-semibold text-base text-gray-600 md:hidden"
         >
           <li>
-            <a href=""> Home </a>
+            <RouterLink to="/">Home</RouterLink>
           </li>
           <li>
             <a href="" class="flex gap-3 items-center">
@@ -40,9 +40,7 @@
             </a>
           </li>
           <li>
-            <a href="">
-            Pricing
-            </a>
+            <RouterLink to="/pricing">Pricing</RouterLink>
           </li>
         </ul>
       </div>
@@ -53,9 +51,11 @@
       <button
         class="h-11 w-20 rounded-lg font-semibold text-base text-gray-600"
       >
-        Login
+        <RouterLink to="/login">Login</RouterLink>
       </button>
-      <PurpleButton class="h-11 w-24 r"> Sign Up </PurpleButton>
+      <RouterLink to="/signup">
+        <PurpleButton class="h-11 w-24 r"> Sign Up </PurpleButton>
+      </RouterLink>
     </div>
     <img
       src="../assets/menu-hamburger.svg"

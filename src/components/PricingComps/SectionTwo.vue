@@ -1,7 +1,7 @@
 <template>
   <div class="py-24 px-28 bg-gray-50 lg:flex lg:flex-col lg:items-center md:py-16 md:px-4">
     <div>
-      <p class="text-base font-semibold text-violet-700 md:text-sm">Features</p>
+      <p class="text-base font-semibold text-purple-700 md:text-sm">Features</p>
       <h2 class="text-3xl font-semibold text-gray-900 mt-3 mb-5 md:mb-4">
         Beautiful analytics to grow smarter
       </h2>
@@ -16,7 +16,7 @@
           class="w-16 h-16 bg-violet-100 rounded-full text-center flex justify-center border-8 border-solid border-violet-50 p-3"
         >
           <img
-            src="../assets/message-chat-circle.svg"
+            src="@/assets/message-chat-circle.svg"
             alt="message-chat-circle"
             class="z-10 m-auto"
           />
@@ -33,7 +33,7 @@
         <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
-            src="../assets/arrow-right.svg"
+            src="@/assets/arrow-right.svg"
             alt="arrow-right"
             height=""
             width="18"
@@ -46,7 +46,7 @@
           class="w-16 h-16 bg-violet-100 rounded-full text-center flex justify-center border-8 border-solid border-violet-50 p-3"
         >
           <img
-            src="../assets/message-smile-circle.svg"
+            src="@/assets/message-smile-circle.svg"
             alt="message-smile-circle"
             class="z-10 m-auto"
           />
@@ -64,7 +64,7 @@
         <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
-            src="../assets/arrow-right.svg"
+            src="@/assets/arrow-right.svg"
             alt="arrow-right"
             height=""
             width="18"
@@ -76,7 +76,7 @@
         <div
           class="w-16 h-16 bg-violet-100 rounded-full text-center flex justify-center border-8 border-solid border-violet-50 p-3"
         >
-          <img src="../assets/zap.svg" alt="zap" class="z-10 m-auto" />
+          <img src="@/assets/zap.svg" alt="zap" class="z-10 m-auto" />
         </div>
         <div class="flex flex-col gap-2">
           <h3 class="text-xl font-semibold text-gray-900 md:text-lg">
@@ -90,7 +90,7 @@
         <a href="" class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
-            src="../assets/arrow-right.svg"
+            src="@/assets/arrow-right.svg"
             alt="arrow-right"
             height=""
             width="18"
@@ -102,7 +102,7 @@
         <div
           class="w-16 h-16 bg-violet-100 rounded-full text-center flex justify-center border-8 border-solid border-violet-50 p-3"
         >
-          <img src="../assets/command.svg" alt="command" class="z-10 m-auto" />
+          <img src="@/assets/command.svg" alt="command" class="z-10 m-auto" />
         </div>
         <div class="flex flex-col gap-2">
           <h3 class="text-xl font-semibold text-gray-900 md:text-lg">
@@ -116,7 +116,7 @@
         <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
-            src="../assets/arrow-right.svg"
+            src="@/assets/arrow-right.svg"
             alt="arrow-right"
             height=""
             width="18"
@@ -129,7 +129,7 @@
           class="w-16 h-16 bg-violet-100 rounded-full text-center flex justify-center border-8 border-solid border-violet-50 p-3"
         >
           <img
-            src="../assets/chart-breakout-square.svg"
+            src="@/assets/chart-breakout-square.svg"
             alt="chart-breakout-square"
             class="z-10 m-auto"
           />
@@ -146,7 +146,7 @@
         <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
-            src="../assets/arrow-right.svg"
+            src="@/assets/arrow-right.svg"
             alt="arrow-right"
             height=""
             width="18"
@@ -159,7 +159,7 @@
           class="w-16 h-16 bg-violet-100 rounded-full text-center flex justify-center border-8 border-solid border-violet-50 p-3"
         >
           <img
-            src="../assets/message-heart-circle.svg"
+            src="@/assets/message-heart-circle.svg"
             alt="message-heart-circle"
             class="z-10 m-auto"
           />
@@ -177,7 +177,7 @@
         <a href=""  class="flex gap-3">
           <p class="text-base font-semibold text-violet-700">Learn more</p>
           <img
-            src="../assets/arrow-right.svg"
+            src="@/assets/arrow-right.svg"
             alt="arrow-right"
             height=""
             width="18"

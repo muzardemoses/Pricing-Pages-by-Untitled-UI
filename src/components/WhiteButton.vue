@@ -3,6 +3,7 @@
     class="btn-pur text-gray-700  rounded-lg border-solid font-semibold text-base focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-100 focus:ring-offset-gray-100
     ,   disabled:cursor-not-allowed"
     :disabled="disabled"
+    :type="type"
   >
     <slot> Default Button </slot>
   </button>
@@ -11,9 +12,13 @@
 <script>
 export default {
   name: "WhiteButton",
+  type: {
+    type: String,
+    default: "button",
+  },
   props: {
     disabled: {
-      type: Boolean,
+      type: String,
       default: false,
     },
   },

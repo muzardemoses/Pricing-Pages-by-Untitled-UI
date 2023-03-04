@@ -22,7 +22,7 @@
         <div class="gap-4 flex flex-col">
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -34,7 +34,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -46,7 +46,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -58,7 +58,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -70,7 +70,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -105,7 +105,7 @@
         <div class="gap-4 flex flex-col">
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -115,7 +115,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -127,7 +127,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -139,7 +139,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -151,7 +151,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -186,7 +186,7 @@
         <div class="gap-4 flex flex-col">
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -198,7 +198,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -210,7 +210,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -222,7 +222,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -234,7 +234,7 @@
           </div>
           <div class="flex gap-3">
             <img
-              src="../assets/marked.svg"
+              src="@/assets/marked.svg"
               height="24"
               width="24"
               class="bg-emerald-100 rounded-full ptwo"
@@ -269,8 +269,8 @@
 </style>
 
 <script>
-import PurpleButton from "./PurpleButton.vue";
-import WhiteButton from "./WhiteButton.vue";
+import PurpleButton from "../PurpleButton.vue";
+import WhiteButton from "../WhiteButton.vue";
 
 export default {
   name: "Pricing",

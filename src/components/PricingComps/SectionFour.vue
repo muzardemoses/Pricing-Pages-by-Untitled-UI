@@ -49,8 +49,8 @@
 </style>
 
 <script>
-import PurpleButton from "./PurpleButton.vue";
-import WhiteButton from "./WhiteButton.vue";
+import PurpleButton from "../PurpleButton.vue";
+import WhiteButton from "../WhiteButton.vue";
 
 export default {
   name: "SectionFour",
